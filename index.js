@@ -18,4 +18,6 @@ function inc(a){
   return(a+1)
 }
 
-function
+function dec(a){
+  funtion(a-1)
+}
